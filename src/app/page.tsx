@@ -1,9 +1,10 @@
-
-
 export default function Home() {
   return (
     <div>
-      <h1>MOVERTEX</h1>
+      <div>
+        <h1>MOVertex</h1>
+        <p></p>
+      </div>
     </div>
   );
 }
